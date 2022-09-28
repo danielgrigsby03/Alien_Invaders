@@ -6,10 +6,9 @@ import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.stage.Stage;
 
-public class snake extends Application 
-{
-private Stage stage;
-private Scence scene; 
+public class snake extends Application {
+    private Stage stage;
+    private Scence scene;
 
     public snake() 
     {
@@ -20,7 +19,7 @@ private Scence scene;
     public init() 
     {
 
-    }// initialize 
+    }// initialize
 
     public void start(Stage start) 
     {
