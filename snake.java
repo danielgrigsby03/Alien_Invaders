@@ -2,23 +2,20 @@ package snake;
 
 import javafx.application.Application;
 
-public class snake extends Application 
-{
-private Stage stage;
-private Scence scene; 
+public class snake extends Application {
+    private Stage stage;
+    private Scence scene;
 
-    public snake() 
-    {
+    public snake() {
 
-    } //  snake constructor
+    } // snake constructor
 
     public init() 
     {
 
-    }// initialize 
+    }// initialize
 
-    public void start(Stage start) 
-    {
+    public void start(Stage start) {
 
     }// start
 } // snake class
